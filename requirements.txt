@@ -1,0 +1,21 @@
+# ============================================
+# Nova Global University - Python Dependencies
+# ============================================
+
+# Web framework
+Flask
+
+# --------------------------------------------
+# Python Standard Library Modules
+# --------------------------------------------
+# random  -> built into Python
+# time    -> built into Python
+#
+# Flask modules used in app.py:
+# Flask
+# request
+# session
+# jsonify
+#
+# request, session, and jsonify are included
+# with Flask and do NOT need separate packages.
